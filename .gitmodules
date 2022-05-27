@@ -1,0 +1,3 @@
+[submodule "Bashlib"]
+	path = Bashlib
+	url = https://github.com/SolidLabResearch/Bashlib.git

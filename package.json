@@ -1,0 +1,22 @@
+{
+  "name": "solid-drones",
+  "version": "1.0.0",
+  "description": "Exploration of Solid Community Server and Drone Ontology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesvardeman/solid-drones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesvardeman/solid-drones/issues"
+  },
+  "homepage": "https://github.com/charlesvardeman/solid-drones#readme",
+  "dependencies": {
+    "@comunica/query-sparql-solid": "^2.0.1"
+  }
+}
